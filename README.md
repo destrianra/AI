@@ -1,0 +1,2 @@
+# AI
+kecerdasan buatan
